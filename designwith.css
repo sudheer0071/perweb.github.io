@@ -230,6 +230,15 @@ color: rgba(10, 10, 10, 0.342);
     width: 10px;
   }
 
+  .fa-hackerrank {
+    background: #ffffff;
+    color: rgb(13, 161, 25);
+    padding: 7px;
+    height: 0px;
+    width: 10px;
+  }
+
+
   .social_media{
     margin-top: 50px;
     margin-bottom: 50px;
